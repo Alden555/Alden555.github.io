@@ -2,3 +2,13 @@ h1.heading {
     margin-bottom:0px;
     margin-left:200px;
 }
+
+.box {
+	height: 200px;
+	width: 200px;
+	background-color: red;
+}
+
+.box.active {
+	background-color: blue;
+}
